@@ -1,0 +1,5 @@
+Hi, I am learning devops, scripting and Git
+
+Hello, I am doing changes
+
+I am learning devops $aws
