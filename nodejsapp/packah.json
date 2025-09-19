@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-docker-action",
+  "version": "1.0.0",
+  "description": "A custom Node.js Docker GitHub Action",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  }
+}
